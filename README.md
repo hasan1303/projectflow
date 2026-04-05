@@ -1,4 +1,4 @@
-# ProjectFlow
+# 🧠 TaskFlow – Modern Task Management App
 
 ![Vue](https://img.shields.io/badge/Vue.js-3-42b883?logo=vue.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-6-646cff?logo=vite&logoColor=white)
